@@ -48,7 +48,7 @@ leaflet armor -
 magma lord armor -
 mastiff armor -
 maxor armor - full / kept the darker zones
-melon armor -
+melon armor - full / kept the red parts
 mercenary armor -
 miner armor -
 miner outfit -
