@@ -35,7 +35,7 @@ flamebreaker armor -
 frozen blaze armor -
 glacite armor -
 goblin armor -
-goldor armor - full / kept the darker zones
+goldor armor - full / kept the darker parts
 golem armor -
 great spook armor -
 hardened diamond armor -
@@ -47,7 +47,7 @@ lava sea creature armure -
 leaflet armor -
 magma lord armor -
 mastiff armor -
-maxor armor - full / kept the darker zones
+maxor armor - full / kept the darker parts
 melon armor - full / kept the red parts
 mercenary armor -
 miner armor -
@@ -84,7 +84,7 @@ spooky armor -
 squash armor -
 squire armor -
 starlight armor -
-storm armor - full / kept the darker zones
+storm armor - full / kept the darker parts
 strong dragon armor -
 super heaver armor -
 superior dragon armor -
