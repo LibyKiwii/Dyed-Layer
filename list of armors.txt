@@ -8,7 +8,7 @@ armor of the pack -
 armor of the rising sun -
 armor of yog - full / kept the lava lines
 aurora armor - partial / added trim like patterns
-bat person armor -
+bat person armor - full / kept the wings and bat face
 berserker armor -
 blaze armor - 
 bouncy armor - 
@@ -27,8 +27,8 @@ ender armor -
 fancy tuxedo -
 farm armor -
 farm suit -
-farmer boots -
-fermento armor - full - kept the leaf parts
+farmer boots - full - kept the leaves
+fermento armor - full - kept the leaves
 fervor armor -
 final destination - partial / colored the stars
 flamebreaker armor -
@@ -45,7 +45,7 @@ hunter armor -
 lapis armor -
 lava sea creature armure -
 leaflet armor -
-magma lord armor -
+magma lord armor - full / kept the white dots
 mastiff armor -
 maxor armor - full / kept the darker parts
 melon armor - full / kept the red parts
@@ -56,13 +56,15 @@ mineral armor -
 mushroom armor -
 necromancer lord armor -
 necron armor - full / kept the darker zones
-nutcracker armor -
+nutcracker armor - full / kept the belt, strap and buttons
+obsidian chestplate - full
 old dragon armor -
 perfect armor -
 protector dragon armor -
 pumpkin armor -
 rabbit armor -
 rampart armor -
+ranchers boots - full / kept the leaves
 reaper armor -
 rekindled ember armor -
 revenant armor -
@@ -70,7 +72,7 @@ rosetta armor -
 rotten armor -
 salmon rmor -
 shadow assassin armor -
-shark scale armor -
+shark scale armor - full
 shimmering light armor -
 skeleton grunt armor -
 skeleton lord armor -
@@ -80,8 +82,8 @@ skeletor armor -
 snow suit -
 sorrow - full
 speedster armor -
-spooky armor -
-squash armor -
+spooky armor - full / kept the orange lines
+squash armor - full / kept the brown parts
 squire armor -
 starlight armor -
 storm armor - full / kept the darker parts
@@ -90,7 +92,7 @@ super heaver armor -
 superior dragon armor -
 tarantula armor -
 terror - partial / added trim like patterns
-thunder armor -
+thunder armor - full / kept the blue sparks
 unstable dragon armor -
 werewolf armor -
 wise dragon armor -
