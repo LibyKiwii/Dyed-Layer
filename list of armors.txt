@@ -40,7 +40,7 @@ golem armor -
 great spook armor -
 hardened diamond armor -
 heat armor -
-holy dragon armor -
+holy dragon armor - full / kept the gem
 hunter armor -
 lapis armor -
 lava sea creature armure -
@@ -58,9 +58,9 @@ necromancer lord armor -
 necron armor - full / kept the darker zones
 nutcracker armor - full / kept the belt, strap and buttons
 obsidian chestplate - full
-old dragon armor -
+old dragon armor - full / kept the gem
 perfect armor -
-protector dragon armor -
+protector dragon armor -full / kept the gem
 pumpkin armor -
 rabbit armor -
 rampart armor -
@@ -70,8 +70,9 @@ rekindled ember armor -
 revenant armor -
 rosetta armor -
 rotten armor -
-salmon rmor -
-shadow assassin armor -
+salmon armor -
+shadow assassin armor - full / kept the red lines
+shadow assassin armor starred - full / kept the red and purple lines
 shark scale armor - full
 shimmering light armor -
 skeleton grunt armor -
@@ -87,18 +88,18 @@ squash armor - full / kept the brown parts
 squire armor -
 starlight armor -
 storm armor - full / kept the darker parts
-strong dragon armor -
+strong dragon armor - full / kept the gem
 super heaver armor -
-superior dragon armor -
+superior dragon armor - full / kept the gem
 tarantula armor -
 terror - partial / added trim like patterns
 thunder armor - full / kept the blue sparks
-unstable dragon armor -
+unstable dragon armor - full / kept the gem
 werewolf armor -
-wise dragon armor -
-wither armor -
+wise dragon armor - full / kept the gem
+wither armor - partial / tainted the colored parts
 wyld armor -
-young dragon armor -
+young dragon armor - full / kept the gem
 zombie armor -
 zombie commander armor -
 zombie knight armor -
