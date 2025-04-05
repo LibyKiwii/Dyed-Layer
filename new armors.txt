@@ -1,24 +1,4 @@
-- melon armor
-- cropie armor
-- squash armor
-- farmer boots
-- ranchers boots
-- shark scale armor
-- nutcracker armor
-- thunder armor
-- magma lord armor
-- obsidian chestplate
-- mithril coat
-- spooky armor
-- bat person armor
-- shadow assassin armor
-- shadow assassin starred armor
-- wither armor
-- protector dragon armor
-- old dragon armor
-- holy dragon armor
-- unstable dragon armor
-- strong dragon armor
-- wise dragon armor
-- young dragon armor
-- superior dragon armor
+Changed Armors :
+- Magma Lord armor
+
+New Armors :

@@ -1,7 +1,7 @@
 adaptative armor -
 angler armor - full / kept the fins and tooth
 arachne armor - full
-armor of divan - full / kept the jewels lines
+armor of divan - partial / tinted the golden parts
 armor of growth - partial, tinted the colored lines
 armor of magma -
 armor of the pack -
@@ -10,6 +10,7 @@ armor of yog - full / kept the lava lines
 aurora armor - partial / added trim like patterns
 bat person armor - full / kept the wings and bat face
 berserker armor -
+biohazard armor - full / kept the gloves, straps and belt
 blaze armor - 
 bouncy armor - 
 cactus armor - 
@@ -45,7 +46,7 @@ hunter armor -
 lapis armor -
 lava sea creature armure -
 leaflet armor -
-magma lord armor - full / kept the white dots
+magma lord armor - full / kept the dark parts and white dots
 mastiff armor -
 maxor armor - full / kept the darker parts
 melon armor - full / kept the red parts
