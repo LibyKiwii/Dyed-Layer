@@ -1,0 +1,3 @@
+This pack is a fork of FurfSky Reborn made LibyKiwii
+It is intended to "try" adding some dye supports to armors with FurfSky 1.7.4
+https://modrinth.com/resourcepack/furfsky-reborn
